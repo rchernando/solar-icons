@@ -3,7 +3,7 @@ import { SolarIconsService } from './solar-icons.service';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 
 @Component({
-  selector: 'lib-solar-icons',
+  selector: 'solar-icons',
   standalone: true,
   imports: [],
   template: `
