@@ -16,6 +16,11 @@
     "experimentalDecorators": true,
     "moduleResolution": "bundler",
     "importHelpers": true,
+    "paths": {
+      "solar-icons": [
+        "./dist/solar-icons"
+      ]
+    },
     "target": "ES2022",
     "module": "ES2022",
     "lib": [
